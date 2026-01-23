@@ -1,4 +1,4 @@
-# Capstone Project Module 1 – Spotify Data CLI App
+# Spotify Data CLI App
 
 This project is a Command-Line Interface (CLI) application built using Python and MySQL.  
 It loads Spotify dataset, imports it into MySQL, and provides interactive features:
